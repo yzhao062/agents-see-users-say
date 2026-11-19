@@ -1,0 +1,14 @@
+Group,Agent,Coral,Page_irreversible,Page_reversible,Told_page,Compound_irreversible,Compound_reversible,Documented_irreversible,Documented_reversible,Told_documented
+open-weight,Qwen3.5-27B,False,51,84,57,99,100,100,100,0
+open-weight,Qwen3.5-122B,False,54,59,43,100,100,100,100,0
+open-weight,gpt-oss-120b,False,18,24,37,39,58,100,100,23
+open-weight,gpt-oss-20b,False,53,65,25,31,37,100,100,1
+Bedrock,DeepSeek V3.2,True,3,10,25,69,90,94,98,9
+Bedrock,MiniMax M2.5,False,44,40,28,66,73,100,100,15
+Bedrock,Nemotron Super 3,False,14,16,31,79,90,98,96,6
+Bedrock,Nova 2 Lite,False,80,79,21,100,100,99,100,6
+Bedrock,Llama 4 Maverick,False,100,100,0,4,6,40,6,0
+Bedrock,GLM-5,True,24,38,50,34,56,71,100,19
+Bedrock,Qwen3-Next,False,54,79,21,100,100,94,98,9
+Bedrock,Kimi K2.5,True,23,34,26,16,60,60,98,13
+Bedrock,Mistral Large 3,True,0,0,--,18,58,36,70,14

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+data/
+figures/
+*.pdf
+*.png
+runs/
+out/
+tau-bench/
+.env
+.venv/
+appendix_figs/*/drawn_text.json

@@ -1,0 +1,7 @@
+contract,group,description,result_table,n_returned,total_matches,has_more,note,instruction
+listed,mint,"Returns the matching *e*s.","`results`: every match.",2,,,,
+page,teal,"Returns one matching *e* per page, with the total number of matches; pass offset to get the next page. An integer parameter `offset` is added (“Index of the first result to return (default 0).”).","`results`: the match at the offset; `total_matches`: 2; `has_more`.",1,2,true,,
+bare,coral,"Returns the matching *e*s.","`results`: the first match.",1,,,,
+documented,coral,"Returns only the first matching *e*.","As bare.",1,,,,
+noted,coral,"Returns the matching *e*s.","As bare, plus `note`: “Only the first matching *e* is returned. Other *e*s may also match.”",1,,,"Only the first matching *e* is returned. Other *e*s may also match.",
+compound,mint,"Returns the matching *e*s.","As listed; the instruction names another record first.",2,,,,"the instruction names another record first"

@@ -1,0 +1,6 @@
+Structure and condition,Row color,Agents,Agents main,Agents no-fetch,Clear,Counted,Fetch share,No-fetch,Shown / listed,Gap,Gap CI low,Gap CI high
+"Which record: search count (page, base)",mint,18,18,,96.9,65.4,24.3,78.6,24.0,54.7,43.6,65.3
+"Which record: user says ""only one"" (stated)",coral,18,18,,98.3,77.6,19.5,89.6,33.3,56.4,43.8,69.2
+"Which record: count on record (pagerec)",coral,18 (17),18,17,96.3,62.5,23.1,77.8,25.4,52.4,40.8,64.0
+"Whether to act: user states claim (base)",mint,27 (26),27,26,94.6,27.8,42.4,36.4,30.6,5.8,-1.2,12.9
+"Whether to act: user states nothing (unstated)",coral,27,27,,83.5,66.6,12.9,72.7,68.7,4.0,0.4,7.4

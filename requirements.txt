@@ -1,0 +1,12 @@
+# Analysis, tests, and figures (no network)
+numpy
+pandas
+matplotlib
+pytest
+
+# Calling models (only needed to run agents)
+openai
+boto3
+
+# The tau-bench collision also needs a tau-bench checkout (see README):
+#   git clone https://github.com/sierra-research/tau-bench data/tau-bench && git -C data/tau-bench checkout 59a200c

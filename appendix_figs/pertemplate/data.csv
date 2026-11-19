@@ -1,0 +1,17 @@
+Template,No-Fetch Counted,Shown,No-Fetch n
+account,32,33,59
+api_key,37,19,70
+branch,20,19,86
+calendar,58,34,98
+channel,51,41,95
+customer,20,18,70
+dns_record,28,30,72
+flag,49,30,61
+folder,44,21,85
+invoice,25,19,95
+mailing_list,26,17,84
+meeting,57,51,82
+order,76,41,67
+project,58,39,66
+subscription,48,40,90
+volume,22,20,64

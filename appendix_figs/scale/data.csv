@@ -1,0 +1,11 @@
+"Agent (reasoning)","first, noted","page with count","send, listed"
+Qwen3.5-9B,96 / 66,84 / 91,96
+"Qwen3.5-27B, no thinking",99 / 71,48 / 99,54
+Qwen3.5-27B,100 / 86,40 / 99,68
+Qwen3.5-122B,100 / 89,58 / 99,84
+"gpt-oss-20b, low",100 / 13,70 / 100,83
+"gpt-oss-20b, medium",94 / 76,50 / 100,53
+"gpt-oss-20b, high",91 / 80,25 / 100,14
+"gpt-oss-120b, low",100 / 0,95 / 100,75
+"gpt-oss-120b, medium",100 / 53,14 / 100,6
+"gpt-oss-120b, high",84 / 81,3 / 99,0
